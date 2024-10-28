@@ -6,13 +6,13 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on developing a website for a Healthcare startup
-- 🌱 Learning Node.js, Angular, LLMs, and Generative AI
+- 🔭 Currently working on designing and developing a SPA(Single Page App) for a Healthcare startup
+- 🌱 Learning Node.js, Angular, Django, LLMs, and Generative AI
 - 👯 Looking to collaborate on learning and growing together
 - 🤔 Seeking to make meaningful connections and build my network
 - 💬 Ask me about:
   - 💻 Software & Tech
-  - 📚 Self-help books
+  - 📚 Self-help books, novels
   - 🧘‍♂️ Stress/Anxiety Management & Mindfulness
   - 🌱 Sustainability
   - 📖 Mythology
