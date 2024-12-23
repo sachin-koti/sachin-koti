@@ -12,7 +12,7 @@
 - 🤔 Seeking to make meaningful connections and build my network
 - 💬 Ask me about:
   - 💻 Software & Tech
-  - 📚 Self-help books
+  - 📚 Self-help books & novels
   - 🧘‍♂️ Stress/Anxiety Management & Mindfulness
   - 🌱 Sustainability
   - 📖 Mythology
