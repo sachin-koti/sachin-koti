@@ -63,10 +63,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sachin-koti&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-koti&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-koti)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sachinkoti123@gmail.com)
