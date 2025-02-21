@@ -6,8 +6,8 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on developing a SPA(Single Page App) for a Healthcare startup
-- 🌱 Leveraging Node.js, Angular, Django, LLMs, and Generative AI
+- 🔭 Software Engineer at Scriptchain Health, building an AI platform to predict heart disease readmissions
+- 🌱 Node.js, Angular, Django, ML pipelines, LLMs, and Generative AI
 - 👯 Looking to collaborate on learning and growing together
 - 🤔 Seeking to make meaningful connections and build my network
 - 💬 Ask me about:
